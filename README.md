@@ -3,7 +3,7 @@
 A premium, fully responsive landing page mockup built with HTML5, CSS3, and Bootstrap 5. This project demonstrates high-fidelity component reconstruction from UI design specifications, entirely implemented using custom CSS, grid layouts, and vector typography without relying on external image files.
 
 ## 🚀 Live Demo
-* Add your GitHub Pages link here (e.g., https://yourusername.github.io/cavient-mockup) *
+* Add your GitHub Pages link here (e.g.,https://github.com/DewminiAW/Cavient-master-template/tree/main)
 
 ## ✨ Key Technical Features
 * **100% Code-Driven Visuals:** Implemented complex interface components, dashboard previews, and map grids strictly using pure CSS and responsive vectors.
