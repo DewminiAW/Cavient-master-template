@@ -17,6 +17,10 @@ A premium, fully responsive landing page mockup built with HTML5, CSS3, and Boot
 * **Typography & Icons:** Google Fonts (Inter), Font Awesome 6
 * **Hosting/Deployment:** GitHub Pages
 
+
+
+
+
 ├── css/
 │   ├── bootstrap.css
 │   └── style.css          <-- Custom CSS 
@@ -28,3 +32,15 @@ A premium, fully responsive landing page mockup built with HTML5, CSS3, and Boot
 │   ├── bootstrap.js
 │   └── Script.js
 └── index.html             <-- HTML 
+
+
+
+
+
+
+
+
+
+
+
+
